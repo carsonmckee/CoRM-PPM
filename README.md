@@ -1,2 +1,2 @@
 # CoRM-PPM
-Compound Random Measure Product Partition Model
+This repository contains the code and data for the CoRM-PPM presented in Chapter 5. 
